@@ -19,6 +19,8 @@ Coordinating state updates across multiple components required careful planning,
 Reflection
 The group collaborated well using version control and regular discussions to align on design and fixes. What worked well included the iterative testing approach, which helped catch issues early. Next time, we would improve by setting up a more robust state management plan from the start and exploring additional React Native features like navigation to enhance the user experience.
 
+GitHub IRL : https://github.com/ST10484117/ST10484117-GuessGame1-LujiaXiao.git
+
 Screenshots of the App
 
 Both Screens 
